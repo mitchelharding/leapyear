@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+}
+
+input.form-control{
+  width:250px;
+  margin-left: 29%;
+}
+
+#result{
+  display: none;
+  font-size: 25px;
+  margin: 10px;
+  color: red;
+
+}
